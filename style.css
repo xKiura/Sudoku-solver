@@ -10,3 +10,20 @@
   border-spacing: 0;
   border: 1px grey solid;
 }
+
+.odd-section {
+  background-color: lightgray;
+}
+
+#solve-button {
+  background-color: lightgreen;
+  color: black;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
+}
+
+#solve-button:hover {
+  background-color: greenyellow;
+  cursor: pointer;
+}
